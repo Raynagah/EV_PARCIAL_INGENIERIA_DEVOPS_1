@@ -7,6 +7,8 @@ Repositorio dedicado al desarrollo de la primera evaluación de la asignatura In
 
 Para la creación de los archivos del repositorio utilizamos el formato TBD, el cual justificamos en el apartado "Estrategias de revisión".
 
+-- Integrantes: Nicolás Bello, Rodrigo Vargas.
+
 ## Flujo de trabajo con ramas
 
 Usamos el siguiente flujo de ramas:
