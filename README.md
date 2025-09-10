@@ -1,7 +1,6 @@
 
 # EV_PARCIAL_INGENIERIA_DEVOPS_1
 
-
 ## 📌 Objetivo del Proyecto
 
 Repositorio dedicado al desarrollo de la primera evaluación de la asignatura Ingeniería DevOps.
@@ -19,7 +18,7 @@ Usamos el siguiente flujo de ramas:
 
 Lee el archivo [CONTRIBUTING.md](./CONTRIBUTING.md) para conocer las reglas de colaboración.
 
-## Convenciones de commit 
+## Convenciones de commit
 
 - Commits en español.
 - Titulos cortos.
