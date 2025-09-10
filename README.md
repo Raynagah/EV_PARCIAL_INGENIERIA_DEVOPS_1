@@ -1,9 +1,9 @@
 # EV_PARCIAL_INGENIERIA_DEVOPS_1
+
+## 📌 Objetivo del Proyecto
 Repositorio dedicado al desarrollo de la primera evaluación de la asignatura Ingeniería DevOps.
 
-Para la creación de los archivos del repositorio utilizamos el formato TBD, el cual justificamos a continuación.
-
-Para la realización de la evaluación, elegimos implementar Trunk-based Development, ya que es bastante recomendado en proyectos pequeños, justo como el que nos compete llevar a cabo en este momento.
+Para la creación de los archivos del repositorio utilizamos el formato TBD, el cual justificamos en el apartado "Estrategias de revisión".
 
 ## Flujo de trabajo con ramas
 
@@ -34,6 +34,7 @@ Lee el archivo [CONTRIBUTING.md](./CONTRIBUTING.md) para conocer las reglas de c
 
 ## Estrategias de revisión
 
+- Para la realización de la evaluación, elegimos implementar Trunk-based Development, ya que es bastante recomendado en proyectos pequeños, justo como el que nos compete llevar a cabo en este momento.
 - Trunk-Based Development (TBD) → ramas cortas que se integran rápido a main.
 - Para mayor información vaya al link que se encuentra en el apartado de "¿Cómo contribuir?"
 
