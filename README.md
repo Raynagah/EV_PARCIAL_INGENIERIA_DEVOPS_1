@@ -12,7 +12,7 @@ Para la creación de los archivos del repositorio utilizamos el formato TBD, el 
 Usamos el siguiente flujo de ramas:
 
 - `main`: Rama principal, estable.
-- `feature/contributing-doc`: Para documentación de CONTRIBUTING.md.
+- `feature/contributing.md`: Para documentación de CONTRIBUTING.md.
 
 ## ¿Cómo contribuir?
 
